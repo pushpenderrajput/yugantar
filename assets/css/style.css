@@ -543,7 +543,9 @@ section {
   font-size: 28px;
   font-family: "Poppins", sans-serif;
 }
-
+.about img{
+  border-radius: 10px;
+}
 .about .content ul {
   list-style: none;
   padding: 0;
@@ -1336,7 +1338,7 @@ section {
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs {
-  padding: 15px 0;
+
   background: whitesmoke;
   min-height: 40px;
   margin-top: 74px;
@@ -1353,7 +1355,7 @@ section {
   list-style: none;
   padding: 0;
   margin: 0;
-}
+} 
 
 .breadcrumbs ol li+li {
   padding-left: 10px;
@@ -1384,9 +1386,49 @@ section {
   }
 }
 
-/*--------------------------------------------------------------
-# Footer
---------------------------------------------------------------*/
+
+.technical-details {
+  padding-top: 30px;
+  
+} 
+
+
+.technical-details  img {
+  width: 70%;
+  height: 300px;
+  border-radius: 10px;
+  
+}
+
+.technical-details .container {
+  margin-top: 20px;
+  position: relative;
+}
+
+.technical-details .row{
+  padding: 20px 20px;
+
+}
+
+
+
+.technical-details .technical-info ul li+li {
+  margin-top: 10px;
+}
+
+.technical-details .technical-description {
+  padding-top: 30px;
+}
+
+.technical-details .technical-description h2 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.technical-details .technical-description p {
+  padding: 0;
+}
 #footer {
   background: black;
   padding: 0 0 30px 0;
