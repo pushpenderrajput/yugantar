@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+<h1>Welcome</h1>
+This is YUGANTAR 2K24! 
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
